@@ -1,0 +1,63 @@
+{
+  "izbori": "Lokalni izbori 2025",
+  "datum": "18.05.2025.",
+  "vrijeme": "22:00",
+  "izboriOznaka": "06",
+  "zupSifra": "01",
+  "gropSifra": "0000",
+  "bmSifra": "000",
+  "zupNaziv": "ZAGREBAČKA ŽUPANIJA",
+  "gropNaziv": "",
+  "bmNaziv": "",
+  "bmZatvoreno": 636,
+  "bmUkupno": 636,
+  "biraciUkupno": 272782,
+  "biraciGlasovalo": 123296,
+  "biraciGlasovaloPosto": "45,20",
+  "listiciUkupno": 123281,
+  "listiciVazeci": 117386,
+  "listiciVazeciPosto": "95,22",
+  "listiciNevazeci": 5895,
+  "listiciNevazeciPosto": "4,78",
+  "napomena": "",
+  "lista": [{
+    "rbr": 1,
+    "stranke": "S1, S2",
+    "strankePuniNaziv": [
+      {"naziv": "STRANKA NAZIV 1"},
+      {"naziv": "STRANKA NAZIV 2"}
+    ],
+    "naziv": "IVO IVIĆ - nositelj liste",
+    "nazivDodatno": "",
+    "zamjenici": [],
+    "jedinstvenaSifra": "12345678",
+    "glasova": 65432,
+    "posto": "55,74"
+  },{
+    "rbr": 2,
+    "stranke": "S3",
+    "strankePuniNaziv": [
+      {"naziv": "STRANKA PUNI NAZIV BROJ 3"}
+    ],
+    "naziv": "IVA IVIĆ - nositeljica liste",
+    "nazivDodatno": "",
+    "zamjenici": [],
+    "jedinstvenaSifra": "87654321",
+    "glasova": 40000,
+    "posto": "34,08"
+  },{
+    "rbr": 3,
+    "stranke": "S4, S5, S6",
+    "strankePuniNaziv": [
+      {"naziv": "STRANKA NAZIV 4"},
+      {"naziv": "STRANKA NAZIV 5"},
+      {"naziv": "STRANKA NAZIV 6"}
+    ],
+    "naziv": "IVAN IVIĆ - nositelj liste",
+    "nazivDodatno": "",
+    "zamjenici": [],
+    "jedinstvenaSifra": "11111111",
+    "glasova": 11954,
+    "posto": "10,18"
+  }]
+}
