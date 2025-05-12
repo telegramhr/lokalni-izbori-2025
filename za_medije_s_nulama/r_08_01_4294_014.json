@@ -1,0 +1,180 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "08",
+  "zupSifra" : "01",
+  "gropSifra" : "4294",
+  "bmSifra" : "014",
+  "zupNaziv" : "ZAGREBAČKA ŽUPANIJA",
+  "gropNaziv" : "SVETI IVAN ZELINA",
+  "bmNaziv" : "NESPEŠ",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "SKNL, DPS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "STJEPAN KOŽIĆ - NEZAVISNA LISTA - SKNL"
+    }, {
+      "naziv" : "DEMOKRATSKA PRIGORSKO-ZAGREBAČKA STRANKA - DPS"
+    } ],
+    "naziv" : "STJEPAN KOŽIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "036249",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "DP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    } ],
+    "naziv" : "MAKSIMILIJAN JAREC - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "FOKUS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "FOKUS"
+    } ],
+    "naziv" : "HRVOJE KOŠĆEC - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "270",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "HDZ",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    } ],
+    "naziv" : "EVA JENDRIŠ ŠKRLJAK - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "003",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "HPSS, DOMINO, HSU, MOST",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA PUČKA SELJAČKA STRANKA - HPSS"
+    }, {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    }, {
+      "naziv" : "MOST"
+    } ],
+    "naziv" : "BRIGITTE BERULEC - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "023131317318",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 6,
+    "stranke" : "SDP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    } ],
+    "naziv" : "KRISTINA MAREČIĆ - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "017",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

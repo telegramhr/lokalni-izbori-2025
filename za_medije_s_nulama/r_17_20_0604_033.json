@@ -1,0 +1,134 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "17",
+  "zupSifra" : "20",
+  "gropSifra" : "0604",
+  "bmSifra" : "033",
+  "zupNaziv" : "MEĐIMURSKA ŽUPANIJA",
+  "gropNaziv" : "ČAKOVEC",
+  "bmNaziv" : "ŠTEFANEC",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "NPS, SDP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "NEZAVISNA PLATFORMA SJEVERA - NPS"
+    }, {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    } ],
+    "naziv" : "LJERKA CIVIDINI",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: LANA REMAR"
+    } ],
+    "jedinstvenaSifra" : "017304",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "KANDIDATI GRUPE BIRAČA",
+    "strankePuniNaziv" : [ {
+      "naziv" : "KANDIDATI GRUPE BIRAČA"
+    } ],
+    "naziv" : "BOJAN PERHOČ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: FRANJO CAROVIĆ"
+    } ],
+    "jedinstvenaSifra" : "2410",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "HDZ",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    } ],
+    "naziv" : "LOVRO HORVAT",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: GORAN KOZJAK"
+    } ],
+    "jedinstvenaSifra" : "003",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "HSS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    } ],
+    "naziv" : "STJEPAN KOVAČ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: BOŠKA BAN"
+    } ],
+    "jedinstvenaSifra" : "004",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

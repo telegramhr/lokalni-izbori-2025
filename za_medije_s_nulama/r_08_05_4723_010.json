@@ -1,0 +1,200 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "08",
+  "zupSifra" : "05",
+  "gropSifra" : "4723",
+  "bmSifra" : "010",
+  "zupNaziv" : "VARAŽDINSKA ŽUPANIJA",
+  "gropNaziv" : "VARAŽDIN",
+  "bmNaziv" : "VARAŽDIN",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "SDP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    } ],
+    "naziv" : "NEVEN BOSILJ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "017",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "DOMINO, MOST, HRVATSKI SUVERENISTI, HSP, HSS - SR, BUZ",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    }, {
+      "naziv" : "MOST"
+    }, {
+      "naziv" : "HRVATSKI SUVERENISTI"
+    }, {
+      "naziv" : "HRVATSKA STRANKA PRAVA - HSP"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA-STJEPAN RADIĆ - HSS - SR"
+    }, {
+      "naziv" : "BLOK UMIROVLJENICI ZAJEDNO - BUZ"
+    } ],
+    "naziv" : "KRUNOSLAV BUREK - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "007102131206263317",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "HDZ, HSLS, SUS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "HRVATSKA SOCIJALNO - LIBERALNA STRANKA - HSLS"
+    }, {
+      "naziv" : "STRANKA UMIROVLJENIKA SJEVER - SUS"
+    } ],
+    "naziv" : "SPOMENKA KIĐEMET-PISKAČ - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "001003340",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "HNS, HSU, NEZAVISNI",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    }, {
+      "naziv" : "NEZAVISNI"
+    } ],
+    "naziv" : "ANDREJA PARLAJ - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "011023243",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "MOŽEMO!",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MOŽEMO! - POLITIČKA PLATFORMA - MOŽEMO!"
+    } ],
+    "naziv" : "DUBRAVKA NOVAK - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "255",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 6,
+    "stranke" : "REFORMISTI, NPS, \"DO i SIP\", GLAS, SOCIJALDEMOKRATI, UMIROVLJENICI",
+    "strankePuniNaziv" : [ {
+      "naziv" : "NARODNA STRANKA - REFORMISTI - REFORMISTI"
+    }, {
+      "naziv" : "NEZAVISNA PLATFORMA SJEVERA - NPS"
+    }, {
+      "naziv" : "\"DALIJA OREŠKOVIĆ I LJUDI S IMENOM I PREZIMENOM\" - \"DO i SIP\""
+    }, {
+      "naziv" : "GRAĐANSKO-LIBERALNI SAVEZ - GLAS"
+    }, {
+      "naziv" : "SOCIJALDEMOKRATI"
+    }, {
+      "naziv" : "STRANKA HRVATSKIH UMIROVLJENIKA - UMIROVLJENICI - UMIROVLJENICI"
+    } ],
+    "naziv" : "NATALIJA MARTINČEVIĆ - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "162178244299304306",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

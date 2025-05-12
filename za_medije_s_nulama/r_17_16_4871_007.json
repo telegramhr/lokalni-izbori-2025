@@ -1,0 +1,132 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "17",
+  "zupSifra" : "16",
+  "gropSifra" : "4871",
+  "bmSifra" : "007",
+  "zupNaziv" : "VUKOVARSKO-SRIJEMSKA ŽUPANIJA",
+  "gropNaziv" : "VINKOVCI",
+  "bmNaziv" : "VINKOVCI",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "DOMINO",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    } ],
+    "naziv" : "STJEPAN ANDABAK",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: VEDRAN HERCEG"
+    } ],
+    "jedinstvenaSifra" : "317",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "HDZ",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    } ],
+    "naziv" : "JOSIP ROMIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: KATARINA VUČIĆ"
+    } ],
+    "jedinstvenaSifra" : "003",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "SDP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    } ],
+    "naziv" : "DAVOR BENIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: GORAN HEFFER"
+    } ],
+    "jedinstvenaSifra" : "017",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "KANDIDATI GRUPE BIRAČA",
+    "strankePuniNaziv" : [ {
+      "naziv" : "KANDIDATI GRUPE BIRAČA"
+    } ],
+    "naziv" : "GORAN KAJKIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: ANTONELA KRZNARIĆ"
+    } ],
+    "jedinstvenaSifra" : "2696",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

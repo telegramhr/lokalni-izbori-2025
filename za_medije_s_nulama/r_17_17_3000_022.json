@@ -1,0 +1,134 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "17",
+  "zupSifra" : "17",
+  "gropSifra" : "3000",
+  "bmSifra" : "022",
+  "zupNaziv" : "SPLITSKO-DALMATINSKA ŽUPANIJA",
+  "gropNaziv" : "OMIŠ",
+  "bmNaziv" : "ČIŠLA",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "HDZ, DP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    } ],
+    "naziv" : "TIHANA BARIŠIĆ MARUNČIĆ",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: GABRIEL SEBA"
+    } ],
+    "jedinstvenaSifra" : "003267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "MOST",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MOST"
+    } ],
+    "naziv" : "KARLO VUKASOVIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: FILOMENA BOŽIĆ"
+    } ],
+    "jedinstvenaSifra" : "131",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "HSP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA STRANKA PRAVA - HSP"
+    } ],
+    "naziv" : "DENIS DUJMOVIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: KAŽIMIR TOMASOVIĆ"
+    } ],
+    "jedinstvenaSifra" : "007",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "KANDIDATI GRUPE BIRAČA",
+    "strankePuniNaziv" : [ {
+      "naziv" : "KANDIDATI GRUPE BIRAČA"
+    } ],
+    "naziv" : "ZVONKO MOČIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: IVAN PIVČEVIĆ"
+    } ],
+    "jedinstvenaSifra" : "2615",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

@@ -1,0 +1,214 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "17",
+  "zupSifra" : "01",
+  "gropSifra" : "3808",
+  "bmSifra" : "023",
+  "zupNaziv" : "ZAGREBAČKA ŽUPANIJA",
+  "gropNaziv" : "SAMOBOR",
+  "bmNaziv" : "JARUŠJE",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "HDZ, HSU, DP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    }, {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    } ],
+    "naziv" : "MATIJA HRŽIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: DAVOR CIPEK"
+    } ],
+    "jedinstvenaSifra" : "003023267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "HSS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    } ],
+    "naziv" : "KREŠO BELJAK",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: MARTINA GLASNOVIĆ"
+    } ],
+    "jedinstvenaSifra" : "004",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "FOKUS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "FOKUS"
+    } ],
+    "naziv" : "PETRA ŠKROBOT",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: PETAR BURIĆ"
+    } ],
+    "jedinstvenaSifra" : "270",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "SDP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    } ],
+    "naziv" : "MARINKO DŽEPINA",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: MAJA GRAČANIN"
+    } ],
+    "jedinstvenaSifra" : "017",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "HPSS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA PUČKA SELJAČKA STRANKA - HPSS"
+    } ],
+    "naziv" : "HRVOJE FRANKIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: NATAŠA SUBAŠIĆ"
+    } ],
+    "jedinstvenaSifra" : "318",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 6,
+    "stranke" : "MOŽEMO!",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MOŽEMO! - POLITIČKA PLATFORMA - MOŽEMO!"
+    } ],
+    "naziv" : "RENATA IVANOVIĆ",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: PREDRAG ŠVAGA"
+    } ],
+    "jedinstvenaSifra" : "255",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 7,
+    "stranke" : "SAMOTIM",
+    "strankePuniNaziv" : [ {
+      "naziv" : "NEZAVISNA STRANKA SAMO TIM - SAMOTIM"
+    } ],
+    "naziv" : "DARIJO KIŠIČEK",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: JELENA ŠTAJNKLER"
+    } ],
+    "jedinstvenaSifra" : "337",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

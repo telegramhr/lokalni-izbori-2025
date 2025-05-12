@@ -1,0 +1,234 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "08",
+  "zupSifra" : "08",
+  "gropSifra" : "2526",
+  "bmSifra" : "006",
+  "zupNaziv" : "PRIMORSKO-GORANSKA ŽUPANIJA",
+  "gropNaziv" : "MALI LOŠINJ",
+  "bmNaziv" : "VELI LOŠINJ",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "IDS, HNS, UNIJA",
+    "strankePuniNaziv" : [ {
+      "naziv" : "ISTARSKI DEMOKRATSKI SABOR - IDS"
+    }, {
+      "naziv" : "HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS"
+    }, {
+      "naziv" : "UNIJA KVARNERA - UNIJA"
+    } ],
+    "naziv" : "ANDRINO MAGLIEVAZ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "005011241",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "JAVNO DOBRO",
+    "strankePuniNaziv" : [ {
+      "naziv" : "JAVNO DOBRO"
+    } ],
+    "naziv" : "SILVIJA KOCIJAN - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "309",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "KANDIDACIJSKA LISTA GRUPE BIRAČA",
+    "strankePuniNaziv" : [ {
+      "naziv" : "KANDIDACIJSKA LISTA GRUPE BIRAČA"
+    } ],
+    "naziv" : "DUBRAVKO DEVČIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "2991",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "DP, HRVATSKI SUVERENISTI, MOST, HSLS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    }, {
+      "naziv" : "HRVATSKI SUVERENISTI"
+    }, {
+      "naziv" : "MOST"
+    }, {
+      "naziv" : "HRVATSKA SOCIJALNO - LIBERALNA STRANKA - HSLS"
+    } ],
+    "naziv" : "BORIS ADŽIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "001131263267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "KANDIDACIJSKA LISTA GRUPE BIRAČA",
+    "strankePuniNaziv" : [ {
+      "naziv" : "KANDIDACIJSKA LISTA GRUPE BIRAČA"
+    } ],
+    "naziv" : "MARIO FRANKOVIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "2630",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 6,
+    "stranke" : "AM",
+    "strankePuniNaziv" : [ {
+      "naziv" : "AKCIJA MLADIH - AM"
+    } ],
+    "naziv" : "MARIO OKMAŽIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "065",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 7,
+    "stranke" : "HDZ, HSS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    } ],
+    "naziv" : "ANA KUČIĆ - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "003004",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 8,
+    "stranke" : "SDP, PGS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    }, {
+      "naziv" : "PRIMORSKO GORANSKI SAVEZ - PGS"
+    } ],
+    "naziv" : "JERKO KUŠETA - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "006017",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

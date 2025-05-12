@@ -1,0 +1,256 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "15",
+  "zupSifra" : "21",
+  "gropSifra" : "0021",
+  "bmSifra" : "183",
+  "zupNaziv" : "GRAD ZAGREB",
+  "gropNaziv" : "",
+  "bmNaziv" : "SOPOT",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "PAVLE KALINIĆ - NL, SU, UMIROVLJENICI ZAJEDNO, ZDS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "PAVLE KALINIĆ - NEZAVISNA LISTA - PAVLE KALINIĆ - NL"
+    }, {
+      "naziv" : "STRANKA UMIROVLJENIKA - SU"
+    }, {
+      "naziv" : "UMIROVLJENICI ZAJEDNO - POLITIČKA PLATFORMA - UMIROVLJENICI ZAJEDNO"
+    }, {
+      "naziv" : "ZAGORSKA DEMOKRATSKA STRANKA - ZDS"
+    } ],
+    "naziv" : "PAVLE KALINIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: NADICA JAMBREK"
+    }, {
+      "naziv" : "Kandidatkinja za zamjenicu: TATJANA TARANDEK"
+    } ],
+    "jedinstvenaSifra" : "027039301338",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "SERVUS ZAGREB, DINA DOGAN - NL, FOKUS, HSLS, HNS, SOCIJALDEMOKRATI",
+    "strankePuniNaziv" : [ {
+      "naziv" : "BERNARDIĆ DAVOR - NEZAVISNA LISTA SERVUS ZAGREB - SERVUS ZAGREB"
+    }, {
+      "naziv" : "DINA DOGAN - NEZAVISNA LISTA - DINA DOGAN - NL"
+    }, {
+      "naziv" : "FOKUS"
+    }, {
+      "naziv" : "HRVATSKA SOCIJALNO - LIBERALNA STRANKA - HSLS"
+    }, {
+      "naziv" : "HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS"
+    }, {
+      "naziv" : "SOCIJALDEMOKRATI"
+    } ],
+    "naziv" : "DAVOR BERNARDIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: TRPIMIR GOLUŽA"
+    }, {
+      "naziv" : "Kandidatkinja za zamjenicu: DINA DOGAN"
+    } ],
+    "jedinstvenaSifra" : "001011270299322325",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "MOŽEMO!, SDP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MOŽEMO! - POLITIČKA PLATFORMA - MOŽEMO!"
+    }, {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    } ],
+    "naziv" : "TOMISLAV TOMAŠEVIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: DANIJELA DOLENEC"
+    }, {
+      "naziv" : "Kandidat za zamjenika: LUKA KORLAET"
+    } ],
+    "jedinstvenaSifra" : "017255",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "HDZ, DP, HSU, HSS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    } ],
+    "naziv" : "MISLAV HERMAN",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: MARIO ŽUPAN"
+    }, {
+      "naziv" : "Kandidat za zamjenika: MARKO PERIŠA"
+    } ],
+    "jedinstvenaSifra" : "003004023267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "NEZAVISNA LISTA TOMISLAVA JONJIĆA, DOMINO, HRVATSKI SUVERENISTI, BLOK",
+    "strankePuniNaziv" : [ {
+      "naziv" : "NEZAVISNA LISTA TOMISLAVA JONJIĆA - JEDINO HRVATSKA! - NEZAVISNA LISTA TOMISLAVA JONJIĆA"
+    }, {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    }, {
+      "naziv" : "HRVATSKI SUVERENISTI"
+    }, {
+      "naziv" : "BLOK ZA HRVATSKU - BLOK"
+    } ],
+    "naziv" : "TOMISLAV JONJIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: TOMISLAV JELIĆ"
+    }, {
+      "naziv" : "Kandidat za zamjenika: STJEPAN BEKAVAC"
+    } ],
+    "jedinstvenaSifra" : "263265317334",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 6,
+    "stranke" : "BUZ, Plavi grad",
+    "strankePuniNaziv" : [ {
+      "naziv" : "BLOK UMIROVLJENICI ZAJEDNO - BUZ"
+    }, {
+      "naziv" : "POLITIČKA STRANKA - PLAVI GRAD - Plavi grad"
+    } ],
+    "naziv" : "IVICA LOVRIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: OTTO BARIĆ"
+    }, {
+      "naziv" : "Kandidatkinja za zamjenicu: MARINA LUJIĆ"
+    } ],
+    "jedinstvenaSifra" : "102316",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 7,
+    "stranke" : "MARIJA SELAK RASPUDIĆ - NL",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MARIJA SELAK RASPUDIĆ - NEZAVISNA LISTA - MARIJA SELAK RASPUDIĆ - NL"
+    } ],
+    "naziv" : "MARIJA SELAK RASPUDIĆ",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: DAMIR FIRŠT"
+    }, {
+      "naziv" : "Kandidatkinja za zamjenicu: MILKA RIMAC BILUŠIĆ"
+    } ],
+    "jedinstvenaSifra" : "329",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

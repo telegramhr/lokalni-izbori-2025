@@ -1,0 +1,164 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "08",
+  "zupSifra" : "05",
+  "gropSifra" : "1562",
+  "bmSifra" : "031",
+  "zupNaziv" : "VARAŽDINSKA ŽUPANIJA",
+  "gropNaziv" : "IVANEC",
+  "bmNaziv" : "MARGEČAN",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "HNS, HSU",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA NARODNA STRANKA - LIBERALNI DEMOKRATI - HNS"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    } ],
+    "naziv" : "BOŽIDAR DUBOVEČAK - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "011023",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "REFORMISTI, \"DO i SIP\", GLAS, SOCIJALDEMOKRATI, UMIROVLJENICI",
+    "strankePuniNaziv" : [ {
+      "naziv" : "NARODNA STRANKA - REFORMISTI - REFORMISTI"
+    }, {
+      "naziv" : "\"DALIJA OREŠKOVIĆ I LJUDI S IMENOM I PREZIMENOM\" - \"DO i SIP\""
+    }, {
+      "naziv" : "GRAĐANSKO-LIBERALNI SAVEZ - GLAS"
+    }, {
+      "naziv" : "SOCIJALDEMOKRATI"
+    }, {
+      "naziv" : "STRANKA HRVATSKIH UMIROVLJENIKA - UMIROVLJENICI - UMIROVLJENICI"
+    } ],
+    "naziv" : "JELENA PAVLEKOVIĆ - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "162178244299306",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "SDP, HSS, HOĆEMO",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    }, {
+      "naziv" : "HOĆEMO PRAVEDNO - HOĆEMO"
+    } ],
+    "naziv" : "MIHAEL SLUNJSKI - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "004017297",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "HDZ, SUS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "STRANKA UMIROVLJENIKA SJEVER - SUS"
+    } ],
+    "naziv" : "ZDENKO ĐURAS - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "003340",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "NPS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "NEZAVISNA PLATFORMA SJEVERA - NPS"
+    } ],
+    "naziv" : "MILORAD BATINIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "304",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

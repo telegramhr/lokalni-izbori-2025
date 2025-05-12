@@ -1,0 +1,198 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "15",
+  "zupSifra" : "01",
+  "gropSifra" : "1015",
+  "bmSifra" : "008",
+  "zupNaziv" : "ZAGREBAČKA ŽUPANIJA",
+  "gropNaziv" : "DUGO SELO",
+  "bmNaziv" : "DUGO SELO - SJEVER I",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "SKNL, HDZ, HSU, DP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "STJEPAN KOŽIĆ - NEZAVISNA LISTA - SKNL"
+    }, {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    }, {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    } ],
+    "naziv" : "STJEPAN KOŽIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: ERVIN KOLAREC"
+    }, {
+      "naziv" : "Kandidat za zamjenika: DAMIR TOMLJENOVIĆ"
+    } ],
+    "jedinstvenaSifra" : "003023249267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "SDP, MOŽEMO!",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    }, {
+      "naziv" : "MOŽEMO! - POLITIČKA PLATFORMA - MOŽEMO!"
+    } ],
+    "naziv" : "MIHAEL ZMAJLOVIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: KRUNOSLAV SOHORA"
+    }, {
+      "naziv" : "Kandidatkinja za zamjenicu: VILDANA BOTONJIĆ"
+    } ],
+    "jedinstvenaSifra" : "017255",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "FOKUS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "FOKUS"
+    } ],
+    "naziv" : "GABRIJEL DEAK",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: ŽELJKA JAREC"
+    }, {
+      "naziv" : "Kandidatkinja za zamjenicu: TATIJANA LENART"
+    } ],
+    "jedinstvenaSifra" : "270",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "MOST, DOMINO, HRVATSKI SUVERENISTI, HSP, PROJEKT DOMOVINA, HSS - SR",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MOST"
+    }, {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    }, {
+      "naziv" : "HRVATSKI SUVERENISTI"
+    }, {
+      "naziv" : "HRVATSKA STRANKA PRAVA - HSP"
+    }, {
+      "naziv" : "PROJEKT DOMOVINA"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA-STJEPAN RADIĆ - HSS - SR"
+    } ],
+    "naziv" : "BARBARA KNEŽEVIĆ",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: ANTONIO KULIŠ"
+    }, {
+      "naziv" : "Kandidat za zamjenika: ZLATKO ROVIŠAN"
+    } ],
+    "jedinstvenaSifra" : "007131202206263317",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "DARIO ZUROVEC - NL, DR. NENAD PANIAN - NL, MARIJA SELAK RASPUDIĆ - NL, MARKO MAGDIĆ NL, MATIJA TEUR NL, NEZAVISNA LISTA IVANIĆ-GRAD, SSM",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DARIO ZUROVEC - NEZAVISNA LISTA - DARIO ZUROVEC - NL"
+    }, {
+      "naziv" : "DR. NENAD PANIAN - NEZAVISNA LISTA - DR. NENAD PANIAN - NL"
+    }, {
+      "naziv" : "MARIJA SELAK RASPUDIĆ - NEZAVISNA LISTA - MARIJA SELAK RASPUDIĆ - NL"
+    }, {
+      "naziv" : "MARKO MAGDIĆ - NEZAVISNA LISTA - MARKO MAGDIĆ NL"
+    }, {
+      "naziv" : "MATIJA TEUR - NEZAVISNA LISTA - MATIJA TEUR NL"
+    }, {
+      "naziv" : "NEZAVISNA LISTA IVANIĆ-GRAD"
+    }, {
+      "naziv" : "SVE SE MOŽE - SSM"
+    } ],
+    "naziv" : "DANIJEL PUKŠIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: DANIELA HORVAT"
+    }, {
+      "naziv" : "Kandidat za zamjenika: ZLATAN PAJSER"
+    } ],
+    "jedinstvenaSifra" : "324326329330331333341",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

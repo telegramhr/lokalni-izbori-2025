@@ -1,0 +1,17 @@
+{
+  "naslov" : "PRIVREMENI REZULTATI LOKALNIH IZBORA",
+  "bmUkupno" : 0,
+  "bmZatvoreno" : 0,
+  "bmObradjeno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciUkupno" : 0,
+  "listiciNevazeci" : 0,
+  "glasova" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeciPosto" : "0,00",
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

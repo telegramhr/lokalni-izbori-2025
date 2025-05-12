@@ -1,0 +1,160 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "15",
+  "zupSifra" : "14",
+  "gropSifra" : "0027",
+  "bmSifra" : "001",
+  "zupNaziv" : "OSJEČKO-BARANJSKA ŽUPANIJA",
+  "gropNaziv" : "ANTUNOVAC",
+  "bmNaziv" : "ANTUNOVAC",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "SDP, MOŽEMO!",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    }, {
+      "naziv" : "MOŽEMO! - POLITIČKA PLATFORMA - MOŽEMO!"
+    } ],
+    "naziv" : "SANJA BJEŽANČEVIĆ",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: KATARINA KRUHONJA"
+    }, {
+      "naziv" : "Kandidat za zamjenika: MARKO BOGATIĆ"
+    } ],
+    "jedinstvenaSifra" : "017255",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "HDZ, DP, DESNO, HSLS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    }, {
+      "naziv" : "DEMOKRATSKI SAVEZ NACIONALNE OBNOVE - DESNO"
+    }, {
+      "naziv" : "HRVATSKA SOCIJALNO - LIBERALNA STRANKA - HSLS"
+    } ],
+    "naziv" : "NATAŠA TRAMIŠAK",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: JOSIP MILETIĆ"
+    }, {
+      "naziv" : "Kandidat za zamjenika: GORAN IVANOVIĆ"
+    } ],
+    "jedinstvenaSifra" : "001003164267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "DOMINO, MOST, HRVATSKI SUVERENISTI, BUZ, HSP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    }, {
+      "naziv" : "MOST"
+    }, {
+      "naziv" : "HRVATSKI SUVERENISTI"
+    }, {
+      "naziv" : "BLOK UMIROVLJENICI ZAJEDNO - BUZ"
+    }, {
+      "naziv" : "HRVATSKA STRANKA PRAVA - HSP"
+    } ],
+    "naziv" : "KREŠIMIR ČABAJ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: JOSIP SKOČIBUŠIĆ"
+    }, {
+      "naziv" : "Kandidat za zamjenika: PETAR KOPUNOVIĆ LEGETIN"
+    } ],
+    "jedinstvenaSifra" : "007102131263317",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "HDSSB, HSS, HSU",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKI DEMOKRATSKI SAVEZ SLAVONIJE I BARANJE - HDSSB"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    } ],
+    "naziv" : "BRANIMIR GLAVAŠ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: MARIO FESTETICS DE TOLNA"
+    }, {
+      "naziv" : "Kandidat za zamjenika: ANTUN MAROŠEVIĆ"
+    } ],
+    "jedinstvenaSifra" : "004023074",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

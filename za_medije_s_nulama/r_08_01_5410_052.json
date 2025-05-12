@@ -1,0 +1,182 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "08",
+  "zupSifra" : "01",
+  "gropSifra" : "5410",
+  "bmSifra" : "052",
+  "zupNaziv" : "ZAGREBAČKA ŽUPANIJA",
+  "gropNaziv" : "VELIKA GORICA",
+  "bmNaziv" : "PETROVINA",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "DOMINO",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    } ],
+    "naziv" : "ZVONIMIR LOVRIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "317",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "HDZ, HSU, HSLS, HSS, SKNL, BM365",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "HRVATSKA STRANKA UMIROVLJENIKA - HSU"
+    }, {
+      "naziv" : "HRVATSKA SOCIJALNO - LIBERALNA STRANKA - HSLS"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    }, {
+      "naziv" : "STJEPAN KOŽIĆ - NEZAVISNA LISTA - SKNL"
+    }, {
+      "naziv" : "BM365 IDEMO DELAT! - BM365"
+    } ],
+    "naziv" : "KREŠIMIR AČKAR - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "001003004023249319",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "SDP, MOŽEMO!, GLAS, \"DO i SIP\"",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    }, {
+      "naziv" : "MOŽEMO! - POLITIČKA PLATFORMA - MOŽEMO!"
+    }, {
+      "naziv" : "GRAĐANSKO-LIBERALNI SAVEZ - GLAS"
+    }, {
+      "naziv" : "\"DALIJA OREŠKOVIĆ I LJUDI S IMENOM I PREZIMENOM\" - \"DO i SIP\""
+    } ],
+    "naziv" : "IVANA MLINAR - nositeljica kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "017244255306",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "DARIO ZUROVEC - NL, DR. NENAD PANIAN - NL, MARIJA SELAK RASPUDIĆ - NL, MARKO MAGDIĆ NL, MATIJA TEUR NL, NEZAVISNA LISTA IVANIĆ-GRAD, SSM",
+    "strankePuniNaziv" : [ {
+      "naziv" : "DARIO ZUROVEC - NEZAVISNA LISTA - DARIO ZUROVEC - NL"
+    }, {
+      "naziv" : "DR. NENAD PANIAN - NEZAVISNA LISTA - DR. NENAD PANIAN - NL"
+    }, {
+      "naziv" : "MARIJA SELAK RASPUDIĆ - NEZAVISNA LISTA - MARIJA SELAK RASPUDIĆ - NL"
+    }, {
+      "naziv" : "MARKO MAGDIĆ - NEZAVISNA LISTA - MARKO MAGDIĆ NL"
+    }, {
+      "naziv" : "MATIJA TEUR - NEZAVISNA LISTA - MATIJA TEUR NL"
+    }, {
+      "naziv" : "NEZAVISNA LISTA IVANIĆ-GRAD"
+    }, {
+      "naziv" : "SVE SE MOŽE - SSM"
+    } ],
+    "naziv" : "IVAN GODINIĆ - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "324326329330331333341",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "MOST, HSP, HRVATSKI SUVERENISTI, HSS - SR",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MOST"
+    }, {
+      "naziv" : "HRVATSKA STRANKA PRAVA - HSP"
+    }, {
+      "naziv" : "HRVATSKI SUVERENISTI"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA-STJEPAN RADIĆ - HSS - SR"
+    } ],
+    "naziv" : "DAMIR SLOJŠEK - nositelj kandidacijske liste",
+    "nazivDodatno" : "",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "007131206263",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

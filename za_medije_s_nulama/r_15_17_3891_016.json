@@ -1,0 +1,184 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "15",
+  "zupSifra" : "17",
+  "gropSifra" : "3891",
+  "bmSifra" : "016",
+  "zupNaziv" : "SPLITSKO-DALMATINSKA ŽUPANIJA",
+  "gropNaziv" : "SINJ",
+  "bmNaziv" : "BIRAČKO MJESTO 16. U RADOŠIĆU",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "HGS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "ŽELJKO KERUM - HRVATSKA GRAĐANSKA STRANKA - HGS"
+    } ],
+    "naziv" : "MARTINA NIMAC KALCINA",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: JURE BUČEVIĆ"
+    }, {
+      "naziv" : "Kandidat za zamjenika: PETROSLAV SAPUNAR"
+    } ],
+    "jedinstvenaSifra" : "097",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 2,
+    "stranke" : "SDP, MOŽEMO!, DIREKT",
+    "strankePuniNaziv" : [ {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    }, {
+      "naziv" : "MOŽEMO! - POLITIČKA PLATFORMA - MOŽEMO!"
+    }, {
+      "naziv" : "DIREKT"
+    } ],
+    "naziv" : "RANKO OSTOJIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidatkinja za zamjenicu: LILJANA CARATAN LUKŠIĆ"
+    }, {
+      "naziv" : "Kandidat za zamjenika: KRISTIJAN BODROŽIĆ"
+    } ],
+    "jedinstvenaSifra" : "017255307",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 3,
+    "stranke" : "HDZ, DP, HSP AS",
+    "strankePuniNaziv" : [ {
+      "naziv" : "HRVATSKA DEMOKRATSKA ZAJEDNICA - HDZ"
+    }, {
+      "naziv" : "DOMOVINSKI POKRET - DP"
+    }, {
+      "naziv" : "HRVATSKA STRANKA PRAVA DR. ANTE STARČEVIĆ - HSP AS"
+    } ],
+    "naziv" : "BLAŽENKO BOBAN",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: STIPE ČOGELJA"
+    }, {
+      "naziv" : "Kandidat za zamjenika: ANTE ŠOŠIĆ"
+    } ],
+    "jedinstvenaSifra" : "003096267",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 4,
+    "stranke" : "MOST, DOMINO, HSP, BUZ",
+    "strankePuniNaziv" : [ {
+      "naziv" : "MOST"
+    }, {
+      "naziv" : "DOM I NACIONALNO OKUPLJANJE - DOMINO"
+    }, {
+      "naziv" : "HRVATSKA STRANKA PRAVA - HSP"
+    }, {
+      "naziv" : "BLOK UMIROVLJENICI ZAJEDNO - BUZ"
+    } ],
+    "naziv" : "ANTE KUJUNDŽIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: MILAN PERIŠIĆ"
+    }, {
+      "naziv" : "Kandidatkinja za zamjenicu: PIA CVITKOVIĆ"
+    } ],
+    "jedinstvenaSifra" : "007102131317",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  }, {
+    "rbr" : 5,
+    "stranke" : "CENTAR, NLM",
+    "strankePuniNaziv" : [ {
+      "naziv" : "CENTAR"
+    }, {
+      "naziv" : "NEZAVISNA LISTA MLADIH - NLM"
+    } ],
+    "naziv" : "IVANA NINČEVIĆ-LESANDRIĆ",
+    "nazivDodatno" : "- kandidatkinja",
+    "zamjenici" : [ {
+      "naziv" : "Kandidat za zamjenika: IGOR SKOKO"
+    }, {
+      "naziv" : "Kandidat za zamjenika: IVAN ŠARIĆ"
+    } ],
+    "jedinstvenaSifra" : "179188",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}

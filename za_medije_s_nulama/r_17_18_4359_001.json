@@ -1,0 +1,58 @@
+{
+  "izbori" : "Lokalni izbori 2025",
+  "datum" : "09.05.2025.",
+  "vrijeme" : "11:15",
+  "izboriOznaka" : "17",
+  "zupSifra" : "18",
+  "gropSifra" : "4359",
+  "bmSifra" : "001",
+  "zupNaziv" : "ISTARSKA ŽUPANIJA",
+  "gropNaziv" : "SVETVINČENAT",
+  "bmNaziv" : "SVETVINČENAT",
+  "bmZatvoreno" : 0,
+  "bmUkupno" : 0,
+  "biraciUkupno" : 0,
+  "biraciGlasovalo" : 0,
+  "biraciGlasovaloPosto" : "0,00",
+  "listiciUkupno" : 0,
+  "listiciVazeci" : 0,
+  "listiciVazeciPosto" : "0,00",
+  "listiciNevazeci" : 0,
+  "listiciNevazeciPosto" : "0,00",
+  "napomena" : "",
+  "lista" : [ {
+    "rbr" : 1,
+    "stranke" : "IDS, ISU - PIP, HSS, SDP",
+    "strankePuniNaziv" : [ {
+      "naziv" : "ISTARSKI DEMOKRATSKI SABOR - IDS"
+    }, {
+      "naziv" : "ISTARSKA STRANKA UMIROVLJENIKA - PARTITO ISTRIANO DEI PENSIONATI - ISU - PIP"
+    }, {
+      "naziv" : "HRVATSKA SELJAČKA STRANKA - HSS"
+    }, {
+      "naziv" : "SOCIJALDEMOKRATSKA PARTIJA HRVATSKE - SDP"
+    } ],
+    "naziv" : "DEAN PERKOVIĆ",
+    "nazivDodatno" : "- kandidat",
+    "zamjenici" : [ ],
+    "jedinstvenaSifra" : "004005017121",
+    "glasova" : 0,
+    "posto" : "0,00",
+    "bmUkupno" : 0,
+    "bmZatvoreno" : 0,
+    "bmObradjeno" : 0,
+    "biraciGlasovalo" : 0,
+    "biraciUkupno" : 0,
+    "listiciVazeci" : 0,
+    "listiciUkupno" : 0,
+    "listiciNevazeci" : 0,
+    "biraciGlasovaloPosto" : "0,00",
+    "listiciVazeciPosto" : "0,00",
+    "listiciNevazeciPosto" : "0,00",
+    "bmObradjenoPosto" : "0,00"
+  } ],
+  "bmObradjeno" : 0,
+  "glasova" : 0,
+  "bmObradjenoPosto" : "0,00",
+  "posto" : "0,0"
+}
